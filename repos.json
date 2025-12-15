@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "projectA": {
+      "Test": "https://github.com/abhisheksainiofficial7060/testrepo.git",
+      "component2": "https://github.com/user/projectA-component2.git"
+    },
+    "projectB": {
+      "component1": "https://github.com/user/projectB-component1.git"
+    },
+    "Tinkercad": {
+      "Frontend": "https://github.com/abhisheksainiofficial7060/testrepo.git"
+    },
+    "aadesh": {
+      "bbbbbbbbbbb": "ggggggggggggg"
+    }
+  },
+  "localization": {
+    "projectA": {
+      "ui": "https://github.com/user/localization-projectA-ui.git",
+      "strings": "https://github.com/user/localization-projectA-strings.git"
+    }
+  }
+}
